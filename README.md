@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=851039536&show_icons=true&count_private=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=851039536&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github.com/851039536/blogs-webApi/?username=851039536&repo=blogs-webApi)](https://github.com/anuraghazra/github-readme-stats)
