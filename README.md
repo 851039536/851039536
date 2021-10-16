@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=851039536)](https://github.com/851039536)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=851039536&show_icons=true&count_private=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
